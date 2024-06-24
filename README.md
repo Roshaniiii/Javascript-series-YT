@@ -1,2 +1,2 @@
-# Javascript-series-YT
-Repo for javascript series
+# Javascript-basics-series
+Repo for javascript series 
